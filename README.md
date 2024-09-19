@@ -1,2 +1,2 @@
 # Games-in-C
-Games in C as hobby projects
+Here I will collect Games in C as hobby projects
